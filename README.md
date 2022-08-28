@@ -27,15 +27,15 @@ Users should be able to:
 
 -Desktop View
 
-![](Screenshot/desktop-view.png)
+![](screenshot/desktop-view.png)
 
 -Mobile View
 
-![](Screenshot/mobile-view.png)
+![](screenshot/mobile-view.png)
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
+- Solution URL: https://github.com/priyanshu-mishr/nft-preview-card-component.git
 - Live Site URL: (https://your-live-site-url.com)
 
 ## My process
